@@ -3,6 +3,7 @@
 A curated list of the best free online calculators organized by category.
 
 ## Financial Calculators
+- [UK Tax Calculator](https://mini-tools.uk/tax) - Estimate UK income tax and take-home pay with clear assumptions
 - [Mortgage Calculator](https://go-calc.com/tools/mortgage-calculator/) - Calculate monthly payments
 - [Compound Interest Calculator](https://go-calc.com/tools/compound-interest-calculator/) - Project investment growth
 - [Loan Calculator](https://go-calc.com/tools/loan-calculator/) - Compare loan options
